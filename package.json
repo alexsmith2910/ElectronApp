@@ -47,6 +47,7 @@
     "json-stringify-safe": "^5.0.1",
     "jsonfile": "^4.0.0",
     "keyv": "^3.1.0",
+    "lesshat": "^4.1.0",
     "lodash": "^4.17.20",
     "lowercase-keys": "^1.0.1",
     "matcher": "^3.0.0",

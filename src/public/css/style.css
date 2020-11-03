@@ -4167,7 +4167,7 @@ figure > img {
   width: 80px;
   height: 80px;
   border-radius: 28px;
-  background-color: #615dfa;
+  background-color: #B4023B;
 }
 
 .page-loader .page-loader-decoration .icon-logo {
@@ -7868,41 +7868,41 @@ figure > img {
 }
 
 .loader-bars .loader-bar:nth-child(1) {
-  background-color: #615dfa;
+  background-color: #B4023B;
 }
 
 .loader-bars .loader-bar:nth-child(2) {
-  background-color: #5d71fb;
+  background-color: #c00943;
   animation-delay: .1s;
 }
 
 .loader-bars .loader-bar:nth-child(3) {
-  background-color: #5983fb;
+  background-color: #b61145;
   animation-delay: .2s;
 }
 
 .loader-bars .loader-bar:nth-child(4) {
-  background-color: #549afc;
+  background-color: #be164b;
   animation-delay: .3s;
 }
 
 .loader-bars .loader-bar:nth-child(5) {
-  background-color: #4eb2fd;
+  background-color: #c72155;
   animation-delay: .4s;
 }
 
 .loader-bars .loader-bar:nth-child(6) {
-  background-color: #49c9fe;
+  background-color: #cf1852;
   animation-delay: .5s;
 }
 
 .loader-bars .loader-bar:nth-child(7) {
-  background-color: #45ddfe;
+  background-color: #e62763;
   animation-delay: .6s;
 }
 
 .loader-bars .loader-bar:nth-child(8) {
-  background-color: #41efff;
+  background-color: #e4326a;
   animation-delay: .7s;
 }
 
