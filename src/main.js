@@ -17,6 +17,7 @@ const createWindow = () => {
   });
 
   mainWindow.loadFile(path.join(__dirname, 'public/html/index.html'));
+  mainWindow.webContents.openDevTools();
   mainWindow.removeMenu()
 
 };
